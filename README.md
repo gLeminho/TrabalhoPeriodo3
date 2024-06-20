@@ -19,37 +19,23 @@ Java Swing
 ![GifTelaLogin](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/3ba9c0b7-5669-47f0-a8e5-e6092f7c80f4)
 
 **Tela de Carrinho**: Permite aos usuários adicionar filmes e produtos ao carrinho de compras, calcular o valor total da compra e oferece botões para pagar, limpar o carrinho ou cancelar a compra.
+![GifTelaCadastro](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/e614c125-9370-4f3b-89d3-347bb5c732fb)
 
 **Tela de Pagamento**: Oferece opções de pagamento (débito, crédito e Pix) com feedback visual para o usuário após cada seleção.
+![GifTelaPagamento](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/63318c56-9a0a-42b2-b2e5-01fa69d3e1d1)
 
 ##Estrutura de Diretórios
-Telas/: Contém as classes Java para as diferentes telas do aplicativo.
+Telas: Contém as classes Java para as diferentes telas do aplicativo.
 Trabalho Faculdade/Imagens/: Diretório que contém as imagens utilizadas no aplicativo.
-Como Executar o Projeto
+Classes: Contém as diferentes classes para o backend
+##Como Executar o Projeto
 Clone o repositório:
 
-bash
-Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
 Abra o projeto em sua IDE Java preferida (como IntelliJ IDEA, Eclipse, NetBeans, etc.).
 
 Compile e execute a classe TelaPrincipal.java para iniciar a aplicação.
 
-Como Contribuir
-Contribuições são bem-vindas! Se deseja contribuir com o projeto, siga os passos:
-
-Faça um fork do repositório.
-Crie uma branch para sua feature (git checkout -b feature/nova-feature).
-Commit suas mudanças (git commit -am 'Adiciona nova feature').
-Push para a branch (git push origin feature/nova-feature).
-Crie um novo Pull Request.
 Equipe
-Desenvolvedor: Seu Nome
-Testadores: Nome dos Testadores
-Designers: Nome dos Designers
+Desenvolvedor: Guilherme Lemos(FrontEnd), David(BackEnd)
 Contato
-Para dúvidas ou sugestões, entre em contato pelo email: seu-email@example.com
-
-Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
-
+Para dúvidas ou sugestões, entre em contato pelo email: guiarger@gmail.com
