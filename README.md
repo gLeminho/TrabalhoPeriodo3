@@ -26,7 +26,7 @@ Java Swing
 **Tela de Pagamento**: Oferece opções de pagamento (débito, crédito e Pix) com feedback visual para o usuário após cada seleção.
 ![GifTelaPagamento](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/63318c56-9a0a-42b2-b2e5-01fa69d3e1d1)
 
-##Estrutura de Diretórios
+## Estrutura de Diretórios
 Telas: Contém as classes Java para as diferentes telas do aplicativo.
 Trabalho Faculdade/Imagens/: Diretório que contém as imagens utilizadas no aplicativo.
 Classes: Contém as diferentes classes para o backend
