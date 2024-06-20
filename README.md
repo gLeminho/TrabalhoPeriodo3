@@ -7,6 +7,7 @@ O projeto consiste em uma aplicação Java Swing que oferece uma experiência in
 ## Tecnologias Utilizadas
 Java
 Java Swing
+html
 ## Funcionalidades
 **Tela Principal**: Exibe um menu com opções de navegação como Início, Sobre Nós, Cadastro, Login e Filmes Indicados.
 ![GifTelaPrincipal](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/ff4317ee-20d8-4898-9e96-3b13c9cee4f4)
@@ -24,14 +25,15 @@ Java Swing
 
 
 **Tela de Pagamento**: Oferece opções de pagamento (débito, crédito e Pix) com feedback visual para o usuário após cada seleção.
+
 ![GifTelaPagamento](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/63318c56-9a0a-42b2-b2e5-01fa69d3e1d1)
 
 ## Estrutura de Diretórios
 Telas: Contém as classes Java para as diferentes telas do aplicativo.
 Trabalho Faculdade/Imagens/: Diretório que contém as imagens utilizadas no aplicativo.
 Classes: Contém as diferentes classes para o backend
-##Como Executar o Projeto
-Clone o repositório:
+## Como Executar o Projeto
+Clone o repositório: https://github.com/gLeminho/TrabalhoPeriodo3
 
 Abra o projeto em sua IDE Java preferida (como IntelliJ IDEA, Eclipse, NetBeans, etc.).
 
