@@ -1,4 +1,4 @@
-Cine Retrô
+#Cine Retrô
 Um aplicativo Java Swing que simula um menu de cinema retrô com filmes recomendados, funcionalidade de login, carrinho de compras e opções de pagamento.
 
 Descrição
