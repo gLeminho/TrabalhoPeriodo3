@@ -37,7 +37,7 @@ Abra o projeto em sua IDE Java preferida (como IntelliJ IDEA, Eclipse, NetBeans,
 
 Compile e execute a classe TelaPrincipal.java para iniciar a aplicação.
 
-Equipe
+## Equipe
 Desenvolvedor: Guilherme Lemos(FrontEnd), David(BackEnd)
 Contato
 Para dúvidas ou sugestões, entre em contato pelo email: guiarger@gmail.com
