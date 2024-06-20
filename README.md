@@ -11,7 +11,8 @@ Java Swing
 **Tela Principal**: Exibe um menu com opções de navegação como Início, Sobre Nós, Cadastro, Login e Filmes Indicados.
 ![GifTelaPrincipal](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/ff4317ee-20d8-4898-9e96-3b13c9cee4f4)
 
-**Tela Cadastro**
+**Tela Cadastro**:
+
 ![GifTelaCadastro](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/c99e3ee0-cdf0-46cd-b59b-974143604070)
 
 **Tela de Login**: Permite aos usuários entrar no sistema fornecendo email e senha.
