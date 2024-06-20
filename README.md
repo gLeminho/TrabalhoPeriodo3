@@ -16,6 +16,7 @@ Java Swing
 ![GifTelaCadastro](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/c99e3ee0-cdf0-46cd-b59b-974143604070)
 
 **Tela de Login**: Permite aos usuários entrar no sistema fornecendo email e senha.
+![GifTelaLogin](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/3ba9c0b7-5669-47f0-a8e5-e6092f7c80f4)
 
 **Tela de Carrinho**: Permite aos usuários adicionar filmes e produtos ao carrinho de compras, calcular o valor total da compra e oferece botões para pagar, limpar o carrinho ou cancelar a compra.
 
