@@ -10,9 +10,6 @@ Java Swing
 ## Funcionalidades
 Tela Principal: Exibe um menu com opções de navegação como Início, Sobre Nós, Cadastro, Login e Filmes Indicados.
 ![GifTelaPrincipal](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/ff4317ee-20d8-4898-9e96-3b13c9cee4f4)
-![GifTelaPrincipal](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/ff4317ee-20d8-4898-9e96-3b13c9cee4f4)
-![GifTelaPrincipal](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/35f7a0e4-42a3-4ed6-bc35-0b06531904f8)
-![GifTelaPrincipal](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/35f7a0e4-42a3-4ed6-bc35-0b06531904f8)
 
 Tela de Login: Permite aos usuários entrar no sistema fornecendo email e senha.
 Tela de Carrinho: Permite aos usuários adicionar filmes e produtos ao carrinho de compras, calcular o valor total da compra e oferece botões para pagar, limpar o carrinho ou cancelar a compra.
