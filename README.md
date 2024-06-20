@@ -8,13 +8,19 @@ O projeto consiste em uma aplicação Java Swing que oferece uma experiência in
 Java
 Java Swing
 ## Funcionalidades
-Tela Principal: Exibe um menu com opções de navegação como Início, Sobre Nós, Cadastro, Login e Filmes Indicados.
+**Tela Principal**: Exibe um menu com opções de navegação como Início, Sobre Nós, Cadastro, Login e Filmes Indicados.
 ![GifTelaPrincipal](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/ff4317ee-20d8-4898-9e96-3b13c9cee4f4)
 
-Tela de Login: Permite aos usuários entrar no sistema fornecendo email e senha.
-Tela de Carrinho: Permite aos usuários adicionar filmes e produtos ao carrinho de compras, calcular o valor total da compra e oferece botões para pagar, limpar o carrinho ou cancelar a compra.
-Tela de Pagamento: Oferece opções de pagamento (débito, crédito e Pix) com feedback visual para o usuário após cada seleção.
-Estrutura de Diretórios
+**Tela Cadastro**
+![GifTelaCadastro](https://github.com/gLeminho/TrabalhoPeriodo3/assets/156124383/c99e3ee0-cdf0-46cd-b59b-974143604070)
+
+**Tela de Login**: Permite aos usuários entrar no sistema fornecendo email e senha.
+
+**Tela de Carrinho**: Permite aos usuários adicionar filmes e produtos ao carrinho de compras, calcular o valor total da compra e oferece botões para pagar, limpar o carrinho ou cancelar a compra.
+
+**Tela de Pagamento**: Oferece opções de pagamento (débito, crédito e Pix) com feedback visual para o usuário após cada seleção.
+
+##Estrutura de Diretórios
 Telas/: Contém as classes Java para as diferentes telas do aplicativo.
 Trabalho Faculdade/Imagens/: Diretório que contém as imagens utilizadas no aplicativo.
 Como Executar o Projeto
